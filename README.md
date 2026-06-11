@@ -73,7 +73,7 @@ SKS-Java-Task4-NumberGuessingGame
 
 ## 👩‍💻 Author
 
-Ashmi Nagisetty
+Ashmitha Nagisetty
 
 Java Development Internship Project
 
